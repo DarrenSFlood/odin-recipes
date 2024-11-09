@@ -1,0 +1,53 @@
+* {
+    line-height: 1.5;
+    padding: 0;
+    margin: 0;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.cooking-lists {
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    background-color: rgb(39, 39, 39);
+}
+
+h4 {
+    text-align:center;
+    font-weight:bold;
+}
+
+img {
+    display: block;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto
+    ;
+}
+
+ol {
+    padding: 25px;
+    margin: 5px;
+}
+
+ul {
+    /* list-style: none; */
+    text-align: center;
+    background-color: rgb(189, 187, 187);
+    color: rgb(39, 39, 39);   
+}
+
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+
+a:visited {
+    color: darkblue;
+}
